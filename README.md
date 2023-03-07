@@ -1,7 +1,5 @@
 ## Completed the given task (FrontEnd Assignment).
 
-### Note: I tried my best to meet the requirements and looking forward for the positive feedback
-
 ## Landing page has a set of users account list in a card
 
 On selecting an account, user directed to the profile page
