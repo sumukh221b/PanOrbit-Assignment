@@ -23,7 +23,7 @@ of the page as per the design provided.
 1. Profile Picture of logged in user
 2. Logged-in member full name and username
 3. List of other users account [along with profile picture] and user name
-4. Clicking SignOut button must redirect to Landing page.
+4. On clicking SignOut button redirected to Landing page.
 
 ## Chat box enabled as per the design.
 
