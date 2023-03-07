@@ -1,4 +1,4 @@
-# Completed the given task (FrontEnd Assignment).
+## Completed the given task (FrontEnd Assignment).
 
 # Note: I tried my best to meet the requirements and looking forward for the positive feedback
 
