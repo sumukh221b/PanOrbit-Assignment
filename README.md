@@ -4,7 +4,7 @@
 
 On selecting an account, user directed to the profile page
 
-## Profile page must consists of following elements.
+## Profile page consists of following elements.
 1. Profile Details Screen
 2. Posts Details Screen
 3. Gallery Screen
